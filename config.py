@@ -1,0 +1,5 @@
+API_KEY = '636e35d872cbb429f5fc7c4d65b2c519'
+CITY = 'Delhi'
+CSV_FILE = 'weather_data.csv'
+EXCEL_FILE = 'weather_data.xlxs'
+XML_FILE = 'weather_data.xml'
